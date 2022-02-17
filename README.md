@@ -1,17 +1,18 @@
-# Learn OLCI
+# Learn SRAL
 
 [![Generic badge](https://img.shields.io/badge/Launch-TrainHub-Blue.svg)](https://trainhub.eumetsat.int/ocean/sensors)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/eumetlab%2Focean%2Fsensors%2Flearn-olci/main)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/eumetlab/ocean/sensors/learn-olci/blob/main)
-[![Open in Planetary Computer](https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft)](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-olci&branch=main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/eumetlab%2Focean%2Fsensors%2Flearn-sral/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/eumetlab/ocean/sensors/learn-sral/blob/main)
+[![Open in Planetary Computer](https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft)](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-sral&branch=main)
 
-The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
-design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
-carried by the Sentinel-3 satellites, and to help users begin to work with its data 
-at level-1B and level-2. 
+The **learn-sral** module consists of a collection of python-based Jupyter-notebooks 
+design to demonstrate the capability of the SAR Radar Altimeter (SRAL), carried 
+by the Sentinel-3 satellites, and to help users begin to work with its data at 
+level-1 and level-2. 
 
 For any questions about this repository, please contact ops@eumetsat.int.
-This repository can be launched in TrainHub WEkEO, Binder, colab ...FINALIZE!
+
+This repository can be launched in TrainHub WEkEO, Binder, colab ...TO BE FINALIZED!
 
 ## License
  
@@ -56,6 +57,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |eumdac|1.0.0|MIT|https://pypi.org/project/eumdac/|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
+|eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
 
 ## Installation
 
@@ -70,7 +72,7 @@ the Anaconda Navigator). Once you have opened a terminal/prompt, you should navi
 to the directory where you want to put the code. Once you are in the correct directory, 
 you should run the following command;
 
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci`
+`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-sral`
 
 This will make a local copy of all the relevant files.
 
@@ -103,10 +105,10 @@ To create the environment, run:
 
 `conda env create -f environment.yml`
 
-This will create a Python 3.8 environment called **cmts_learn_olci**. The environment 
+This will create a Python 3.8 environment called **cmts_learn_sral**. The environment 
 won't be activated by default. To activate it, run:
 
-`conda activate cmts_learn_olci`
+`conda activate cmts_learn_sral`
 
 Now you are ready to go!
 
@@ -157,12 +159,12 @@ at ops@eumetsat.int.
 
 **Installation:**
 
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci`
+`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-sral`
 
 **Create and set environment**
 
 `conda env create -f environment.yml` \
-`conda activate cmts_learn_olci`
+`conda activate cmts_learn_sral`
 
 ** WEkEO SPECIFIC:
 `ipython kernel install --user --name=cmts`

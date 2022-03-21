@@ -1,5 +1,6 @@
 # Copyright holder
-EUMETSAT
+copyright: 2022 EUMETSAT
+license: LICENCE.txt
  
 # List of development authors
 Ben Loveday (Innoflair UG)

@@ -11,7 +11,7 @@ license_text_file: LICENSE.txt
  
 # File(s) associated to this component
 
-about_resource: ./1_SRAL_introductory/1_1_SRAL_data_access.ipynb
+about_resource: ./1_SRAL_introductory/1_1_SRAL_data_access_HDA_Data_Store.ipynb
 about_resource: ./1_SRAL_introductory/1_2_SRAL_file_structure.ipynb
 about_resource: ./1_SRAL_introductory/1_3_SRAL_coverage.ipynb
 about_resource: ./1_SRAL_introductory/1_4_SRAL_tracks.ipynb
@@ -22,6 +22,8 @@ about_resource: ./1_SRAL_introductory/1_8_SRAL_WS.ipynb
 about_resource: ./2_SRAL_advanced/2_1_SRAL_advanced_data_access_eumdac.ipynb
 about_resource: ./2_SRAL_advanced/2_2_SRAL_advanced_data_access_hda.ipynb
 about_resource: ./img/WEkEO_show_api_SRAL.png
+about_resource: ./img/thumbs/1_1_SRAL_data_access_HDA_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_2_SRAL_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_SRAL_coverage_thumbs.png
 about_resource: ./img/thumbs/1_4_SRAL_tracks_thumbs.png
 about_resource: ./img/thumbs/1_5_SRAL_waveforms_thumbs.png

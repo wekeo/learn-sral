@@ -1,3 +1,5 @@
+# copyright: 2022 EUMETSAT
+# license: LICENSE.txt
 name: cmts_learn_sral
 channels:
   - conda-forge
@@ -14,6 +16,7 @@ dependencies:
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::ipywidgets
   - conda-forge::scikit-image
+  - conda-forge::plotly
   - conda-forge::bokeh
   - conda-forge::ipykernel
   - conda-forge::cmocean

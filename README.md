@@ -67,10 +67,14 @@ you should run the following command;
 
 `git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/sensors/learn-sral.git`
 
+*Note: if you are using an older version of git, you may find that your submodules are empty. In this case, you need to remove the folder and re-run the line above with `--recursive` added to the end*
+
 This will make a local copy of all the relevant files.
 
 *Note: If you find that you are missing packages, you should check that you ran 
 `git clone` with both the `--recurse-submodules` and `--remote-submodules` options.*
+
+*Note: if you are using an older version of git, you may find that your submodules are empty. In this case, you need to remove the folder and re-run the line above with `--recursive` added to the end*
 
 ## Usage
 

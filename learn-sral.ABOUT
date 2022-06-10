@@ -21,6 +21,7 @@ about_resource: ./1_SRAL_introductory/1_7_SRAL_SWH.ipynb
 about_resource: ./1_SRAL_introductory/1_8_SRAL_WS.ipynb
 about_resource: ./2_SRAL_advanced/2_1_SRAL_advanced_data_access_eumdac.ipynb
 about_resource: ./img/WEkEO_show_api_SRAL.png
+about_resource: ./img/S3B_orbit.png
 about_resource: ./img/thumbs/1_1_SRAL_data_access_HDA_Data_Store_thumb.png
 about_resource: ./img/thumbs/1_2_SRAL_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_SRAL_coverage_thumbs.png

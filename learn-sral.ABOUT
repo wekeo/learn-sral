@@ -25,7 +25,8 @@ about_resource: ./img/WEkEO_show_api_SRAL.png
 about_resource: ./img/S3B_orbit.png
 about_resource: ./img/waveform.png
 about_resource: ./img/waveforms_generated.png
-about_resource: ./img/thumbs/1_1_SRAL_data_access_HDA_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_1a_SRAL_data_access_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_1b_SRAL_data_access_HDA_thumb.png
 about_resource: ./img/thumbs/1_2_SRAL_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_SRAL_coverage_thumb.png
 about_resource: ./img/thumbs/1_4_SRAL_tracks_thumb.png
@@ -33,8 +34,8 @@ about_resource: ./img/thumbs/1_5_SRAL_waveforms_thumb.png
 about_resource: ./img/thumbs/1_6_SRAL_SSHA_thumb.png
 about_resource: ./img/thumbs/1_7_SRAL_SWH_thumb.png
 about_resource: ./img/thumbs/1_8_SRAL_WS_thumb.png
-about_resource: ./img/thumbs/2_1_SRAL_advanced_data_access_eumdac_thumb.ipynb
-about_resource: ./img/thumbs/2_2_acquire_SRAL_full_cycle.ipynb
+about_resource: ./img/thumbs/2_1_SRAL_advanced_data_access_eumdac_thumb.png
+about_resource: ./img/thumbs/2_2_acquire_SRAL_full_cycle_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt

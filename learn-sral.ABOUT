@@ -1,9 +1,9 @@
 # Component information
 name: learn-sral
 description: Compendium of training content associated with the Copernicus Sentinel-3 SRAL sensor in the marine domain.
-copyright: 2022 EUMETSAT
+copyright: 2023 EUMETSAT
 license_spdx: MIT
-date: 01-03-2022
+date: 06-02-2023
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-sral
 
 # Package IPR documentation
@@ -23,16 +23,19 @@ about_resource: ./2_SRAL_advanced/2_1_SRAL_advanced_data_access_eumdac.ipynb
 about_resource: ./2_SRAL_advanced/2_2_acquire_SRAL_full_cycle.ipynb
 about_resource: ./img/WEkEO_show_api_SRAL.png
 about_resource: ./img/S3B_orbit.png
-about_resource: ./img/thumbs/1_1_SRAL_data_access_HDA_Data_Store_thumb.png
+about_resource: ./img/waveform.png
+about_resource: ./img/waveforms_generated.png
+about_resource: ./img/thumbs/1_1a_SRAL_data_access_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_1b_SRAL_data_access_HDA_thumb.png
 about_resource: ./img/thumbs/1_2_SRAL_file_structure_thumb.png
-about_resource: ./img/thumbs/1_3_SRAL_coverage_thumbs.png
-about_resource: ./img/thumbs/1_4_SRAL_tracks_thumbs.png
-about_resource: ./img/thumbs/1_5_SRAL_waveforms_thumbs.png
-about_resource: ./img/thumbs/1_6_SRAL_SSHA_thumbs.png
-about_resource: ./img/thumbs/1_7_SRAL_SWH_thumbs.png
-about_resource: ./img/thumbs/1_8_SRAL_WS_thumbs.png
-about_resource: ./img/thumbs/2_1_SRAL_advanced_data_access_eumdac_thumb.ipynb
-about_resource: ./img/thumbs/2_2_acquire_SRAL_full_cycle.ipynb
+about_resource: ./img/thumbs/1_3_SRAL_coverage_thumb.png
+about_resource: ./img/thumbs/1_4_SRAL_tracks_thumb.png
+about_resource: ./img/thumbs/1_5_SRAL_waveforms_thumb.png
+about_resource: ./img/thumbs/1_6_SRAL_SSHA_thumb.png
+about_resource: ./img/thumbs/1_7_SRAL_SWH_thumb.png
+about_resource: ./img/thumbs/1_8_SRAL_WS_thumb.png
+about_resource: ./img/thumbs/2_1_SRAL_advanced_data_access_eumdac_thumb.png
+about_resource: ./img/thumbs/2_2_acquire_SRAL_full_cycle_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt

@@ -1,5 +1,5 @@
 # List of development authors
-* Ben Loveday (Innoflair UG)
+* Ben Loveday (Innoflair UG / EUMETSAT)
 * Hayley Evers-King (EUMETSAT)
 * Vinca Rosmorduc (CLS)
 

@@ -36,6 +36,8 @@ about_resource: ./img/thumbs/1_7_SRAL_SWH_thumb.png
 about_resource: ./img/thumbs/1_8_SRAL_WS_thumb.png
 about_resource: ./img/thumbs/2_1_SRAL_advanced_data_access_eumdac_thumb.png
 about_resource: ./img/thumbs/2_2_acquire_SRAL_full_cycle_thumb.png
+about_resource: CHANGELOG
+about_resource: CONTRIBUTING.txt
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt

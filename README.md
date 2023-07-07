@@ -43,22 +43,21 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |item|version|licence|package info|
 |---|---|---|---|
 |python|3.9.13|PSF|https://docs.python.org/3/license.html|
+|jupyterlab|4.0.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|jupyterlab|3.4.4|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
-|jupyter_nbextensions_configurator|0.6.1|BSD-3|https://anaconda.org/conda-forge/jupyter_nbextensions_configurator|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
+|jupyter_contrib_nbextensions|0.5.1|BSD-3|https://anaconda.org/conda-forge/jupyter_contrib_nbextensions|
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
-|plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
 |bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|hda|0.3.7|Apache-2.0|https://pypi.org/project/hda/|
-|eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
-|eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
+|hda|1.15|Apache-2.0|https://pypi.org/project/hda/|
+|eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
+|eumdac|2.0.1|MIT|https://anaconda.org/eumetsat/eumdac|
 
 ## Installation
 
@@ -125,14 +124,24 @@ new window instance*
 This module is based around a series of [Jupyter Notebooks](https://jupyter.org/). These support high-level interactive learning by allowing us to combine code, text description and data visualisations. If you have not worked with `Jupyter Notebooks` 
 before, please look at the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to their usage and benefits.
 
-To to run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
+To run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
 the correct environment. Again, navigate to the repository folder.
+
+If you are running this code for the first time in this environment, you need to enable two
+`extensions` to Jupyter by running the following commands.
+
+`jupyter nbextension enable --py widgetsnbextension` \
+`jupyter nbextension enable exercise2/main`
+
+*Note: you can also enable these in the **Nbextensions** tab of the Jupyter browser window*
+
+*Note: currently the exercise2 extension will only run in Jupyter Notebook "classic" mode* 
 
 Now you can run Jupyter using:
 
-`jupyter lab`
+`jupyter lab` or `jupyter-lab`, depending on your operating system.
 
-This should open Jupyter Lab in a browser window. On occasion, Jupyter may not
+This should open Jupyter Notebooks in a browser window. On occasion, Jupyter may not
 be able to open a window and will give you a URL to past in your browser. Please do
 so, if required.
 
@@ -169,4 +178,4 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **Run**
 
-`jupyter lab`
+`jupyter lab` or `jupyter-lab`

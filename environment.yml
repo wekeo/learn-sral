@@ -9,12 +9,12 @@ dependencies:
   - conda-forge::python=3.9
   - conda-forge::jupyterlab
   - conda-forge::xarray
+  - conda-forge::dask
   - conda-forge::netcdf4
   - conda-forge::shapely
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::ipywidgets
-  - conda-forge::jupyter_nbextensions_configurator
   - conda-forge::scikit-image
   - conda-forge::bokeh
   - conda-forge::ipykernel

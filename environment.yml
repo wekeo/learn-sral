@@ -16,7 +16,7 @@ dependencies:
   - conda-forge::cartopy
   - conda-forge::ipywidgets
   - conda-forge::scikit-image
-  - conda-forge::bokeh
+  - conda-forge::bokeh=3.2.1
   - conda-forge::ipykernel
   - conda-forge::cmocean
   - cmts::hda=1.15

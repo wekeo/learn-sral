@@ -1,9 +1,9 @@
 # Component information
 name: learn-sral
 description: Compendium of training content associated with the Copernicus Sentinel-3 SRAL sensor in the marine domain.
-copyright: 2023 EUMETSAT
+copyright: 2024 EUMETSAT
 license_spdx: MIT
-date: 01-01-2023
+date: 01.03.2024
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-sral
 
 # Package IPR documentation

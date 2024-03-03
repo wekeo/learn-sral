@@ -1,4 +1,4 @@
-# copyright: 2023 EUMETSAT
+# copyright: 2024 EUMETSAT
 # license: LICENSE.txt
 name: cmts_learn_sral
 channels:
@@ -6,19 +6,20 @@ channels:
   - cmts
   - eumetsat
 dependencies:
-  - conda-forge::python=3.9
+  # Core
+  - conda-forge::python=3.10
   - conda-forge::jupyterlab
-  - conda-forge::xarray
+  - conda-forge::ipywidgets
   - conda-forge::dask
+  - conda-forge::xarray
   - conda-forge::netcdf4
-  - conda-forge::shapely
+  - conda-forge::scipy
   - conda-forge::matplotlib
   - conda-forge::cartopy
-  - conda-forge::ipywidgets
+  - conda-forge::cmocean
+  - conda-forge::shapely
   - conda-forge::scikit-image
   - conda-forge::bokeh=3.2.1
-  - conda-forge::ipykernel
-  - conda-forge::cmocean
-  - cmts::hda=1.15
+  - conda-forge::hda
   - cmts::eumartools
-  - eumetsat::eumdac=2.0.1
+  - eumetsat::eumdac

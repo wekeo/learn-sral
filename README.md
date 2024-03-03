@@ -19,7 +19,7 @@ For any questions about this repository, please contact ops@eumetsat.int.
  
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright EUMETSAT 2023.
+package. Copyright EUMETSAT 2024.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
@@ -42,22 +42,22 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 |item|version|licence|package info|
 |---|---|---|---|
-|python|3.9.13|PSF|https://docs.python.org/3/license.html|
-|jupyterlab|4.0.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
-|xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
-|netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
-|shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
-|matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
-|cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
-|jupyter_contrib_nbextensions|0.5.1|BSD-3|https://anaconda.org/conda-forge/jupyter_contrib_nbextensions|
-|scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
-|bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
-|cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
-|hda|1.15|Apache-2.0|https://pypi.org/project/hda/|
+|python|3.10.13|PSF|https://docs.python.org/3/license.html|
+|jupyterlab|4.1.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|ipywidgets|8.1.2|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
+|dask|2024.2.1|BSD-3|https://anaconda.org/conda-forge/dask|
+|xarray|2024.2.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+|netcdf4|1.6.5|MIT|https://anaconda.org/conda-forge/netcdf4|
+|scipy|1.12.0|BSD-3|https://anaconda.org/conda-forge/scipy|
+|matplotlib|3.8.3|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|cartopy|0.22.0|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
+|cmocean|3.1.3|MIT|https://anaconda.org/conda-forge/cmocean|
+|shapely|2.0.3|BSD-3|https://anaconda.org/conda-forge/shapely|
+|scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
+|bokeh|3.2.1|BSD-3|https://anaconda.org/conda-forge/bokeh|
+|hda|2.0|Apache-2.0|https://pypi.org/project/hda|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
-|eumdac|2.0.1|MIT|https://anaconda.org/eumetsat/eumdac|
+|eumdac|2.2.1|MIT|https://anaconda.org/eumetsat/eumdac|
 
 ## Installation
 

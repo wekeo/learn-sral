@@ -17,9 +17,11 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::cmocean
+  # External
+  - cmts::eumartools
+  - eumetsat::eumdac
+  # Extension
   - conda-forge::shapely
   - conda-forge::scikit-image
   - conda-forge::bokeh=3.2.1
   - conda-forge::hda
-  - cmts::eumartools
-  - eumetsat::eumdac

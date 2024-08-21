@@ -7,21 +7,22 @@ channels:
   - eumetsat
 dependencies:
   # Core
-  - conda-forge::python=3.10
-  - conda-forge::jupyterlab
-  - conda-forge::ipywidgets
-  - conda-forge::dask
-  - conda-forge::xarray
-  - conda-forge::netcdf4
-  - conda-forge::scipy
-  - conda-forge::matplotlib
+  - conda-forge::bokeh=3.2.1
   - conda-forge::cartopy
   - conda-forge::cmocean
+  - conda-forge::dask
+  - conda-forge::distributed
+  - conda-forge::hda
+  - conda-forge::ipywidgets
+  - conda-forge::jupyterlab
+  - conda-forge::matplotlib
+  - conda-forge::netcdf4
+  - conda-forge::python=3.10
+  - conda-forge::scipy
+  - conda-forge::xarray
   # External
   - cmts::eumartools
   - eumetsat::eumdac
   # Extension
-  - conda-forge::shapely
   - conda-forge::scikit-image
-  - conda-forge::bokeh=3.2.1
-  - conda-forge::hda
+  - conda-forge::shapely

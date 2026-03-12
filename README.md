@@ -8,7 +8,8 @@
 [![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-sral/HEAD?labpath=Index.ipynb)
 [![WEkEO](https://img.shields.io/badge/launch-WEKEO-1a4696.svg)](https://jupyterhub.prod.wekeo2.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-sral/Index.ipynb)
-[![DestinE](https://img.shields.io/badge/launch-DestinE-f43fd3.svg)](https://code.insula.destine.eu/hub/)
+[![Stack](https://img.shields.io/badge/launch-Stack-2596be.svg)](https://jupyter.central.data.destination-earth.eu/)
+[![Insula](https://img.shields.io/badge/launch-DestinE_Insula_Code-f43fd3.svg)](https://code.insula.destine.eu/)
 
 <hr>
 

@@ -2,6 +2,7 @@
 * Ben Loveday (Innoflair UG / EUMETSAT)
 * Hayley Evers-King (EUMETSAT)
 * Vinca Rosmorduc (CLS)
+* Joana Brito (Innoflair UG / EUMETSAT)
 
 # List of contributory authors
 * Aida Alvera-Azcarate (GHER)

@@ -32,7 +32,7 @@ This software and all associated intellectual property rights (IPRs) are owned b
 
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright 2024 European Union.
+package. Copyright 2026 European Union.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
@@ -54,23 +54,27 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 |item|version|licence|package info|
 |---|---|---|---|
-|bokeh|3.2.1|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|cartopy|0.23.0|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
+|bokeh|3.8.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
+|cartopy|0.25.0|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
 |cmocean|4.0.3|MIT|https://anaconda.org/conda-forge/cmocean|
 |dask|2024.6.0|BSD-3|https://anaconda.org/conda-forge/dask|
-|distributed|2024.6.0|BSD-3|https://anaconda.org/conda-forge/distributed/| 
-|hda|2.16|Apache-2.0|https://pypi.org/project/hda|
-|ipywidgets|8.1.3|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
-|jupyterlab|4.2.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
-|matplotlib|3.8.4|PSFL|https://matplotlib.org/stable/users/project/license.html|
-|netcdf4|1.7.1|MIT|https://anaconda.org/conda-forge/netcdf4|
-|python|3.10.14|PSF|https://docs.python.org/3/license.html|
-|scipy|1.13.0|BSD-3|https://anaconda.org/conda-forge/scipy|
-|xarray|2024.6.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
-|eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
-|eumdac|2.2.2|MIT|https://anaconda.org/eumetsat/eumdac|
-|scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
-|shapely|2.0.3|BSD-3|https://anaconda.org/conda-forge/shapely|
+|dask-labextension|7.0.0|BSD-3|https://anaconda.org/conda-forge/dask-labextension|
+|distributed|2026.1.2|BSD-3|https://anaconda.org/conda-forge/distributed/| 
+|hda|2.39|Apache-2.0|https://pypi.org/project/hda|
+|ipywidgets|8.1.8|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
+|jupyterlab|4.5.5|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|matplotlib|3.10.8|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|netcdf4|1.7.4|MIT|https://anaconda.org/conda-forge/netcdf4|
+|pip|26.0.1|MIT|https://anaconda.org/conda-forge/pip|
+|python|3.13.12|PSF|https://docs.python.org/3/license.html|
+|scikit-image|0.26.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
+|scipy|1.17.1|BSD-3|https://anaconda.org/conda-forge/scipy|
+|shapely|2.1.2|BSD-3|https://anaconda.org/conda-forge/shapely|
+|xarray|2026.2.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+|destinelab|1.13|MIT|https://pypi.org/project/destinelab/|
+|eumartools|0.0.2|MIT|https://anaconda.org/cmts/eumartools|
+|eumdac|3.1.0|MIT|https://anaconda.org/eumetsat/eumdac|
+|copernicusmarine|2.3.0|EUPL-1.2|https://pypi.org/project/copernicusmarine|
 
 ## Included components
 

@@ -1,3 +1,10 @@
+v3.0.0: 03.03.2026
+
+- Python dependency updates
+- Updates reflecting changes to operational processor
+- Updates to data selction based on new reprocessed/operational datasets
+- minor code updates and tidying
+
 v2024.01: 01.03.2024
 
 - many minor updates
